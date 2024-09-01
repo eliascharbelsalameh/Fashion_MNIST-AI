@@ -1,19 +1,7 @@
-# MNIST-AI
-This AI model is designed to predict the types of clothing in images that are displayed in greyscale mode.
-
-Here's a basic README file for your Fashion-MNIST project based on the provided document:
-
----
-
 # Fashion-MNIST Project
 
 ## Overview
 This project is a part of the GEL521 Machine Learning course. It involves the implementation of machine learning models on the Fashion-MNIST dataset, a popular dataset used for benchmarking image classification algorithms.
-
-### Project Details:
-- **Course**: GEL521 - Machine Learning
-- **Instructor**: Dr. Hayssam Serhan
-- **Authors**: Antonio Haddad (202200238), Elias-Charbel Salameh (202201047)
 
 ## Objectives
 1. **Match the True Output**: The goal is to minimize mismatches between the predicted and actual values using Convolutional Neural Networks (CNN).
@@ -56,7 +44,3 @@ The custom ANN implementation achieved a training accuracy of 99.61%.
 
 ## Acknowledgments
 We would like to thank Dr. Hayssam Serhan for his guidance throughout the course.
-
----
-
-This README provides an overview of the project, objectives, and details of the implemented solutions. Adjustments can be made based on the specific content of your project.
